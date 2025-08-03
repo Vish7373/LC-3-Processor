@@ -1,0 +1,13 @@
+# Vivado files to ignore
+*.cache/
+*.gen/
+*.hw/
+*.ip_user_runs/
+*.runs/
+*.sim/
+*.log
+*.jou
+*.str
+*.xpe
+*.dcp
+*.bit
