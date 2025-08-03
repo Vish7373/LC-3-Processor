@@ -11,3 +11,18 @@
 *.xpe
 *.dcp
 *.bit
+
+
+# Sim files
+*.wdb
+*.pb
+
+# Synth files
+*.dcp
+*.ltx
+*.bit
+*.bin
+*.mcs
+
+# Other gen files
+.Xil/
